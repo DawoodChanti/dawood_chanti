@@ -1,6 +1,6 @@
 # Dawood Al Chanti — personal academic website
 
-Static, multi-page website for GitHub Pages, replicated from the reviewed website design. The postdoctoral collaborator is displayed as **Oussama**.
+Static, multi-page website for GitHub Pages, replicated from the reviewed website design. The postdoctoral collaborator is displayed as **Oussama Messai**.
 
 ## Enable publishing
 
@@ -17,3 +17,7 @@ Pages: Home, Research, Publications, People, Teaching, Service, News, About & Co
 The original repository LICENSE is preserved. Professional content is based on the existing public Google Site. DeepKnee source pages have inconsistent end dates; the postdoctoral collaboration is therefore not labelled current or former.
 
 Official GitHub Pages instructions: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+
+## Presentation review
+
+The homepage highlights project leadership, teaching and community responsibilities, the co-authored BIOINFORMATICS 2024 Best Poster Award, and selected academic news. Full chronology is on News. Long pages include section navigation. Former student projects are in an expandable archive.
