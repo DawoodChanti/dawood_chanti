@@ -1,2 +1,19 @@
-# dawood_chanti
-Personal Website
+# Dawood Al Chanti — personal academic website
+
+Static, multi-page website for GitHub Pages, replicated from the reviewed website design. The postdoctoral collaborator is displayed as **Oussama**.
+
+## Enable publishing
+
+In **Settings → Pages → Build and deployment**, select **Deploy from a branch**, then **main** and **/(root)**, and Save.
+
+Expected address after GitHub completes publication: https://dawoodchanti.github.io/dawood_chanti/
+
+## Update the website
+
+Edit the HTML file for the corresponding page and commit to main. GitHub Pages republishes after commits when branch publishing is enabled. Shared styling is in `assets/style.css`; the portrait is local. No build tools, dependencies, cookies, analytics or external fonts are required.
+
+Pages: Home, Research, Publications, People, Teaching, Service, News, About & Contact. Keep homepage news in sync with `news.html`. Earlier activities remain in dated sections. Relative links support the `/dawood_chanti/` project path.
+
+The original repository LICENSE is preserved. Professional content is based on the existing public Google Site. DeepKnee source pages have inconsistent end dates; the postdoctoral collaboration is therefore not labelled current or former.
+
+Official GitHub Pages instructions: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
